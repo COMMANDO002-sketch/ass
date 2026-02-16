@@ -1,0 +1,16 @@
+h3{
+   text-align: center;
+   background-color: blue;
+}
+.dice{
+
+    background-color:  rgb(51, 85, 90);
+    height: 100vh;
+}
+.dice a{
+    background-color: rgb(93, 143, 207);
+    padding: 10px;
+    display: flex;
+    text-decoration: none;
+  
+}

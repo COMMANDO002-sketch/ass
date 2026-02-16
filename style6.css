@@ -1,0 +1,15 @@
+h1{
+    text-shadow: 3px 3px 5px greenyellow , -3px -3px 5px rgb(209, 18, 4);
+    border-style: solid;
+    border-radius: 25px;
+    color: rgb(19, 20, 8);
+   
+
+}
+p{
+border-top: 3px double red;
+border-left: 3px dotted;
+border-right: 3px dotted;
+border-bottom:3px  double;
+
+}

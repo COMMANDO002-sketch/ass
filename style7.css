@@ -1,0 +1,65 @@
+.A{
+    text-align: center;
+    border: 2px solid white;
+    height: 200px;
+    width: 800px;
+    background-color: rgb(255, 67, 9);
+    margin: opx;
+}
+.B{
+    color: black;
+    background-color: rgb(255, 60, 0);
+    font-size: 2em;
+    font-style: italic;
+}
+.Z{
+    background-color: purples;
+    height: 200px;
+    width: 500px;
+}
+#img{
+    width: 200px;
+    height: 200px;
+}
+
+#imb{
+    width: 200px;
+    height: 200px;
+}
+#ima{
+    width: 200px;
+    height: 200px;
+}
+.img{
+    box-sizing: border-box;
+}
+*{
+    max-width: 800px;
+}
+#imi{
+    width: 200px;
+    height: 200px;
+}
+#imj{
+    width: 200px;
+    height: 200px;
+}
+#imk{
+    width: 200px;
+    height: 200px;
+}
+#imz{
+    width: 200px;
+    height: 200px;
+}
+#imx{
+    width: 200px;
+    height: 200px;
+}
+#imy{
+    width: 200px;
+    height: 200px;
+}
+body{
+    background-color: slateblue;
+}

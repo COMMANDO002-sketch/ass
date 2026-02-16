@@ -1,0 +1,9 @@
+.provide :hover a{
+  background-color: blanchedalmond;
+
+}
+*{
+  background-image: url(image.jpg);
+  background: size 100vh; ;
+  background-position: center;
+}
