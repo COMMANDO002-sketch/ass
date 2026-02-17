@@ -8,9 +8,51 @@ h3{
     height: 100vh;
 }
 .dice a{
-    background-color: rgb(93, 143, 207);
+   
     padding: 10px;
     display: flex;
     text-decoration: none;
-  
+}
+@media screen and (max-width: 1325px) {
+    h3{
+        background-color: beige;
+    }
+    .dice{
+        background-color: indigo;
+        justify-content: right;
+        display: flex;
+        
+    }  
+    .dice a{
+        background-color: aquamarine;
+       
+    }
+}
+
+
+@media screen and (max-width: 1024px) {
+    h3{
+        background-color: rgb(185, 185, 34);
+    }
+    .dice{
+        background-color: darkorange;
+        display:flex ; 
+        justify-content: center;
+
+    }
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+    h3{
+        background-color: rgb(231, 245, 220);
+    }
+    
+    }
+      .dice{
+        background-color: red;
+      }
+    }
 }
