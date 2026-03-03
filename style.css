@@ -1,26 +1,29 @@
-h3{
-   text-align: center;
-   background-color: blue;
+
+*{
+    background-color: chocolate;
 }
 .dice{
-
-    background-color:  rgb(51, 85, 90);
-    height: 100vh;
+    height: 50vh;
+    width: 480px;
+    margin: auto;
+    
 }
+
 .dice a{
-   
-    padding: 10px;
-    display: flex;
     text-decoration: none;
+    padding: 15px;
+    background-color: rgb(182, 185, 116);
 }
 @media screen and (max-width: 1325px) {
     h3{
-        background-color: beige;
+        background-color: rgb(218, 7, 7);
     }
     .dice{
         background-color: indigo;
-        justify-content: right;
+        justify-content: left;
         display: flex;
+        margin: 0px;
+        
         
     }  
     .dice a{
@@ -32,12 +35,13 @@ h3{
 
 @media screen and (max-width: 1024px) {
     h3{
-        background-color: rgb(185, 185, 34);
+        background-color: rgb(255, 128, 55);
     }
     .dice{
-        background-color: darkorange;
+        background-color: rgb(0, 255, 98);
         display:flex ; 
-        justify-content: center;
+        justify-content: right;
+        margin: auto;
 
     }
 }
@@ -47,12 +51,12 @@ h3{
 
 @media screen and (max-width: 600px) {
     h3{
-        background-color: rgb(231, 245, 220);
+        background-color: rgb(96, 185, 27);
     }
     
     }
       .dice{
-        background-color: red;
+        background-color: rgb(236, 99, 236);
       }
     }
 }

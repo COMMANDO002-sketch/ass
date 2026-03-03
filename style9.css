@@ -1,0 +1,52 @@
+
+@media screen and (max-width: 1300px){
+    .
+}
+parent{
+    display: flex;
+     background-color: whitesmoke;
+     height: 80px;
+     
+    align-items: center;
+   
+     justify-content: space-between;
+}
+.parent img{
+    width: 200px;
+}
+
+.parent{
+    display: flex;
+     background-color: whitesmoke;
+     height: 80px;
+     
+    align-items: center;
+   
+     justify-content: space-between;
+}
+
+.navbar a{
+    padding: 35px;
+    text-decoration: none;
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 2px;
+   
+}
+
+.button button{
+    padding: 15px;
+  
+    border-radius: 25px;
+    margin: 5px;
+}
+.div1{
+    display: flex;
+    width: 1500px;
+    background-color: aqua;
+    align-items: center;
+    margin: ;
+}
+.button .lemma{
+ background-color: rgb(151, 151, 231);
+}

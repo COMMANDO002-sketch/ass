@@ -1,0 +1,17 @@
+.dice a{
+    background-color: aqua;
+    text-decoration: none;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.dice{
+    background-color: black;
+    height: 100px;
+    width: 700px;
+    position: fixed;
+    top: 0px;
+}
+.container{
+    padding-top: 70px;
+}
